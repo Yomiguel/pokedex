@@ -1,0 +1,25 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Is a Simple Pokedex Season One",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yomiguel/pokedex.git"
+  },
+  "keywords": [
+    "node",
+    "vanilla",
+    "js",
+    "express"
+  ],
+  "author": "Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yomiguel/pokedex/issues"
+  },
+  "homepage": "https://github.com/Yomiguel/pokedex#readme"
+}
